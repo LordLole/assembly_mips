@@ -1,3 +1,6 @@
+# Programador: Felipe Couto
+# Data: 03/11/2018
+
 .data
 	msg1: .asciiz "Digite o numero inicial: "
 	msg2: .asciiz "\nDigite o numero final: "
